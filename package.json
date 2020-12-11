@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Beatso/ScalePixelArt/issues"
   },
-  "homepage": "https://github.com/Beatso/ScalePixelArt#readme"
+  "homepage": "https://github.com/Beatso/ScalePixelArt#readme",
+  "dependencies": {
+    "sharp": "^0.26.3"
+  }
 }
