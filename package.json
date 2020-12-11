@@ -1,0 +1,22 @@
+{
+  "name": "scale-pixel-art",
+  "version": "1.0.0",
+  "description": "Easily scale pixel art with nearest neighbour interpolation.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatso/ScalePixelArt.git"
+  },
+  "keywords": [
+    "image",
+    "image-resize",
+    "image-editing",
+    "pixel-art"
+  ],
+  "author": "Beatso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beatso/ScalePixelArt/issues"
+  },
+  "homepage": "https://github.com/Beatso/ScalePixelArt#readme"
+}
