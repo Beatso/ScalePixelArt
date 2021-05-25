@@ -1,6 +1,6 @@
 {
   "name": "scale-pixel-art",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily scale pixel art with nearest neighbour interpolation.",
   "main": "index.js",
   "repository": {
