@@ -1,0 +1,24 @@
+{
+	// include our code
+	"include": ["*"],
+
+	// exclude declaration files
+	"exclude": ["*.d.ts"],
+	
+	"compilerOptions": {
+		// tells TypeScript to read JS files, as they are normally ignored as source files
+		"allowJs": true,
+
+		// generate d.ts files
+		"declaration": true,
+
+		// the compiler run should only output d.ts files
+		"emitDeclarationOnly": true,
+
+		// react uses sets, so we need to use es2015
+		"target": "es2015",
+
+		// react uses csstype, so we need to use node module resolution
+		"moduleResolution": "node"
+	}
+}
